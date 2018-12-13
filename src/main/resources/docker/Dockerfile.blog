@@ -2,7 +2,7 @@
 FROM java:8
 
 #维护者信息
-MAINTAINER tfss 1255791430@qq.com
+MAINTAINER TheeNd 444633542@qq.com
 
 #镜像的操作指令
 COPY ./tale /tale

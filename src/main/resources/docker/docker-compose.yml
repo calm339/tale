@@ -11,8 +11,8 @@ services:
         ports:
             - "9000:9000"
         volumes:
-            - /opt/tfss_volumes/tale.db:/tale/resources/tale.db
-            - /opt/tfss_volumes/upload:/tale/resources/upload
+            - /opt/hitsf_volumes/tale.db:/tale/resources/tale.db
+            - /opt/hitsf_volumes/upload:/tale/resources/upload
         restart: always
 
         #volumes:

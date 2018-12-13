@@ -38,7 +38,7 @@ git clone https://github.com/tfssweb/tale.git
 ``` 
 然后进入到`docker`目录，依次执行：
 ```
-cp -r ./tfss_volumes/ /opt/
+cp -r ./hitsf_volumes/ /opt/
 
 docker-compose up -d
 ```
@@ -54,7 +54,7 @@ docker-compose up -d
 
 <p>2018-02-06</p>
 
-- 新增客服小图标，效果请看 [颓废书生](http://www.tfss.me/)
+- 新增客服小图标，效果请看 [之乎者也](http://www.hitsf.me/)
 
 <p>2018-01-06</p>
 

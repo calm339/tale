@@ -34,7 +34,7 @@
 
 将代码克隆到本地，执行：
 ```
-git clone https://github.com/tfssweb/tale.git
+git clone https://github.com/calm339/tale.git
 ``` 
 然后进入到`docker`目录，依次执行：
 ```
